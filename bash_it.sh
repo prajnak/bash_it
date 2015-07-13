@@ -4,7 +4,7 @@
 # Reload Library
 case $OSTYPE in
   darwin*)
-    alias reload='source ~/.bash_profile'
+    alias reload='source ~/.bash_profile && source ~/.bashrc'
     ;;
   *)
     alias reload='source ~/.bashrc'
