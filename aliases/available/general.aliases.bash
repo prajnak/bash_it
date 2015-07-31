@@ -27,7 +27,7 @@ alias cls='clear'
 
 alias edit="$EDITOR"
 alias pager="$PAGER"
-
+alias vi="vim"
 alias q='exit'
 
 alias irc="$IRC_CLIENT"
